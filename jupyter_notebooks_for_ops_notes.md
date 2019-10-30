@@ -8,8 +8,6 @@ So, what would happen if someone did this in, say, Python?
 
 Enter iPython.
 
-
-
 There is nothing wrong with using your usual workflow when developing Python for its myriad purposes. That is not why this talk exists. What iPython set out to provide is an environment for exploratory programming.  
 
 iPython (which is short for innteractive Python) started as an interactive shell for execution of Python code.  Some of you may be wondering, when I type "python" in the command prompt, I get a Python environment.  Well, this is certainly true.  But, iPython comes with more.
